@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sagargkunte
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript 
-- 🚗 I’m currently building an e-commerce platform designed specifically for bikes enthusiasts.It includes listings, mechanic assistance, and more...
 - 😀 Ask me about JavaScript
 - ✔  Interested in problem solving
 - 📫 Reach me through any social media with the name sagargkunte...
