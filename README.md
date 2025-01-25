@@ -16,9 +16,9 @@
 <a href="https://fb.com/sagargkunte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagargkunte" height="30" width="40" /></a>
 <a href="https://instagram.com/sagar_g_kunte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar_g_kunte" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sagarkunte-24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagarkunte-24" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sagargkunte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sagargkunte" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sagargkunte" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sagargkunte24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sagargkunte24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sagar_g_kunte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagar_g_kunte" height="30" width="40" /></a>
+<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagar_g_kunte" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
