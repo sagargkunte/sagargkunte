@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar G Kunte</h1>
 <h3 align="center">A passionate Web developer from karnataka,India</h3>
-<img align="right" alt="coding" width="400" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fstockcake.com%2Fi%2Fcoder-at-work_1239309_307985&psig=AOvVaw3MSZKHR1ksgV5lIw5JoWDn&ust=1737900314600000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCl5KmFkYsDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src"https://www.shutterstock.com/image-photo/igniting-innovation-harnessing-power-coding-260nw-2425426569.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargkunte&label=Profile%20views&color=0e75b6&style=flat" alt="sagargkunte" /> </p>
 
 - 🌱 I’m currently learning **JavaScript and their frameworks and libraries**
