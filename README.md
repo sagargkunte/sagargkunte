@@ -29,6 +29,7 @@
 <a href="https://www.codechef.com/users/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sagargkunte" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sagargkunte24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sagargkunte24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagar_g_kunte" height="30" width="40" /></a>
+  <a href="https://codeforces.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manish_r16" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills and Languages:</h3>
