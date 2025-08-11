@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargkunte&label=Profile%20views&color=0e75b6&style=flat" alt="sagargkunte" /> </p>
 
 
-- 🌱 I’m currently learning **JavaScript and their frameworks and libraries**
+- 🌱 I’m currently learning **Backend Development**
 
 -  ✔ DSA in **JavaScript**
 
