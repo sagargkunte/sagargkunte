@@ -1,6 +1,16 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<h1 align="center">Hi 👋, I'm Sagar G Kunte</h1>
+<h1 align="center">
+  Hi 
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="30" 
+    style="vertical-align: middle;" 
+    alt="wave"
+  />
+  I'm Sagar G Kunte
+</h1>
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
