@@ -13,12 +13,10 @@
 
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<img align="right" alt="Future Dev" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">        
 <p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" height="400px" alt="Coding GIF" />
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargkunte&label=Profile%20views&color=0e75b6&style=flat" alt="sagargkunte" /> </p>
 
@@ -31,19 +29,28 @@
 
 - 📫 How to reach me **developersagar24@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sagargkunte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagargkunte" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sagargkunte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagargkunte" height="30" width="40" /></a>
-<a href="https://fb.com/sagargkunte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagargkunte" height="30" width="40" /></a>
-<a href="https://instagram.com/sagar_g_kunte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar_g_kunte" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sagarkunte-24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagarkunte-24" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sagargkunte" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sagargkunte24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sagargkunte24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagar_g_kunte" height="30" width="40" /></a>
-  <a href="https://codeforces.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sagargkunteCFprofile" height="30" width="40" /></a>
-  
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/sagargkunte" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://twitter.com/sagargkunte" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+</a>
+
+<a href="https://instagram.com/sagar_g_kunte" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+<a href="https://github.com/sagargkunte" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 </p>
+
+---
 
 ## 👩‍💻 IDE 
 
@@ -53,7 +60,7 @@
 
 <h3 align="left">Skills and Languages:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,react,nodejs,mongodb,expressjs,typescript,css,html,tailwind,googlecloud,git,github,vscode,postman,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,react,nodejs,mongodb,expressjs,typescript,css,html,tailwind,googlecloud,git,github,vscode,postman,mysql,docker,aws" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagargkunte&show_icons=true&locale=en&layout=compact" alt="sagargkunte" /></p>
