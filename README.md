@@ -60,7 +60,7 @@
 
 <h3 align="left">Skills and Languages:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,react,nodejs,mongodb,expressjs,typescript,css,html,tailwind,googlecloud,git,github,vscode,postman,mysql,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,react,nodejs,mongodb,expressjs,typescript,spring,css,html,tailwind,googlecloud,git,github,vscode,postman,mysql,docker,aws" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagargkunte&show_icons=true&locale=en&layout=compact" alt="sagargkunte" /></p>
