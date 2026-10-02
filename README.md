@@ -62,7 +62,7 @@
 
 <h3 align="left">Skills and Languages:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,mongodb,expressjs,react,nodejs,typescript,spring,css,html,tailwind,googlecloud,git,github,vscode,postman,mysql,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,mongodb,expressjs,react,nodejs,typescript,spring,css,html,tailwind,googlecloud,git,github,vscode,postman,mysql,docker,aws,linux" />
 </p>
 
 
